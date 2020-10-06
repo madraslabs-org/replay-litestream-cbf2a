@@ -1,2 +1,2 @@
-# replay-litestream-cbf2a
-Replayed repository commits
+# litestream
+Streaming replication for SQLite.
